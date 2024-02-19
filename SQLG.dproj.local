@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.753,=D:\Projects\SQLGenerator\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.713,D:\Projects\SQLGenerator\Unit1.pas=D:\Projects\SQLGenerator\SQLG.CreateTable.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.283,=D:\Projects\SQLGenerator\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.823,=D:\Projects\SQLGenerator\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.716,=D:\Projects\#Default\Unit5.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.931,D:\Projects\SQLGenerator\SQLG.Entity.pas=D:\Projects\SQLGenerator\SQLG.Table.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.195,D:\Projects\#Default\Project41.dproj=D:\Projects\SQLGenerator\SQLG.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.626,D:\Projects\SQLGenerator\Unit1.pas=D:\Projects\SQLGenerator\SQLG.Types.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.365,=D:\Projects\SQLGenerator\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.878,D:\Projects\SQLGenerator\Unit1.pas=D:\Projects\SQLGenerator\SQLG.Field.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.148,D:\Projects\SQLGenerator\Unit1.pas=D:\Projects\SQLGenerator\SQLG.Select.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.559,D:\Projects\SQLGenerator\Unit1.pas=D:\Projects\SQLGenerator\SQLG.Condition.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.744,D:\Projects\SQLGenerator\Unit1.pas=D:\Projects\SQLGenerator\SQLG.Params.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.559,=D:\Projects\SQLGenerator\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.961,=D:\Projects\SQLGenerator\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.013,=D:\Projects\SQLGenerator\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.163,D:\Projects\SQLGenerator\Unit1.pas=D:\Projects\SQLGenerator\SQLG.Entity.pas</Transaction>
+  </Transactions>
+</BorlandProject>
